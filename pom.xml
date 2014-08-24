@@ -8,8 +8,8 @@
 	<packaging>jar</packaging>
 	<version>0.1</version>
 
-	<name>SimpleUserInputHook</name>
-	<description>Simple downloader using several connection</description>
+	<name>Downloader</name>
+	<description>Simple http downloader using several connections</description>
 	<url>https://github.com/jlaloi/Downloader</url>
 
 	<developers>
